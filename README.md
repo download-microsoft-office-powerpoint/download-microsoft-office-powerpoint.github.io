@@ -1,6 +1,6 @@
 # Download microsoft office powerpoint
 
-[![Download microsoft office powerpoint](red2.png)](https://computersolve.com/how-to-take-a-screenshot-on-a-pc/)
+[![Download microsoft office powerpoint](red2.png)](https://download-microsoft-office-powerpoint.github.io/)
 
 
 PowerPoint is the most popular slideshow presentation app in the world. It is developed and sold by Microsoft as part of its Office suite, together with other productivity apps such as Word, Excel, Outlook or Access. However, it is also available online as a web app. Unless you have already worked with PowerPoint, you might wonder how and where to download it. If you go online and search for it, many of the search results you get are misleading, so we thought it would make a good idea to show you a few ways in which you can download PowerPoint safely, straight from Microsoft:
