@@ -36,13 +36,13 @@ There is another way to download PowerPoint on your PC, for free. If you are usi
 
 * Start the Microsoft Store by clicking or tapping on its shortcut from the Start Menu.
 
-* * Then search for PowerPoint: when the results are shown, click or tap on PowerPoint Mobile. If you don't see it in your results, you can use this direct link to PowerPoint Mobile. On the app's page, click or tap on Install.
+* Then search for PowerPoint: when the results are shown, click or tap on PowerPoint Mobile. If you don't see it in your results, you can use this direct link to PowerPoint Mobile. On the app's page, click or tap on Install.
 
-* * Wait for PowerPoint Mobile to download and install. It shouldn't take long, as it doesn't have a large size: only about 50MB.
+* Wait for PowerPoint Mobile to download and install. It shouldn't take long, as it doesn't have a large size: only about 50MB.
 
-* * When the installation is over, click or tap on Launch to open PowerPoint Mobile. Later on, you can start it using its shortcut from the Start Menu.
+* When the installation is over, click or tap on Launch to open PowerPoint Mobile. Later on, you can start it using its shortcut from the Start Menu.
 
-* * As you can see, it's not the full-fledged version of PowerPoint, and it's clearly addressed to mobile users who prefer touch, not to desktop PC or laptop users who are used to using a keyboard and mouse.
+* As you can see, it's not the full-fledged version of PowerPoint, and it's clearly addressed to mobile users who prefer touch, not to desktop PC or laptop users who are used to using a keyboard and mouse.
 
 
 ## 3. Download PowerPoint from the Office website, when you own a license for Microsoft Office 2019, 2016 or 2013
